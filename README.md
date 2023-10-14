@@ -1,7 +1,7 @@
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Lilpank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lilpank&layout=compact&langs_count=8&theme=algolia"/>
+### ⚙️ &nbsp; My stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://leetcode.card.workers.dev/Tencay?theme=auto&font=source_code_pro&extension=null" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=400 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilpank&layout=normal&theme=dark" />
+</a>
