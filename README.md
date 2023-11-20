@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 
 ### Hackatons: 
-1. [17.11.2023 Хакатон Тинькофф](https://github.com/Lilpank/Lilpank/pictures/)
+1. [17.11.2023 Хакатон Тинькофф](https://github.com/Lilpank/Lilpank/blob/main/pictures/17.11%20%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84%20%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD.jpg)
 
 ### ⚙️ &nbsp; My stats
 <a href="https://leetcode.com/Tencay/">
