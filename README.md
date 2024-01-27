@@ -4,7 +4,7 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp; Мне нравится изучать DevOps, тестирование, разрабатывать программные решения на языках: Java, Python.\
+💡 &nbsp; I like to study DevOps, testing, and develop software solutions in languages: Java, Python.\
 🎓&nbsp; Currently, I am a Master of Samara University in the direction of applied mathematics and computer science.\
 🌱 &nbsp; I'm on track for learning more about Systems Design, Cloud Architecture, and Automatic Testing.\
 
